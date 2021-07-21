@@ -1,0 +1,7 @@
+{
+  "name": "Next.js CI",
+  "description": "SEQL Next.js CI workflow template",
+  "iconName": "next",
+  "categories": ["JavaScript"],
+  "filePatterns": ["package.json$"]
+}
