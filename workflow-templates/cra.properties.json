@@ -1,0 +1,7 @@
+{
+  "name": "Create React App CI",
+  "description": "SEQL create-react-app CI workflow template",
+  "iconName": "cra",
+  "categories": ["JavaScript"],
+  "filePatterns": ["package.json$"]
+}
