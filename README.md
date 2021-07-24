@@ -8,4 +8,5 @@ Templates and automation for GitHub at SEQL
 
 ## GitHub Actions Workflow Templates
 
+NOTE: Only supported if we upgrade to enterprise
 <https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization>
